@@ -1,0 +1,42 @@
+09-09-2019
+Reviewing the code of AMC forms
+
+10-09-2019
+Reviewing the code of AMC forms
+
+11-09-2019
+Reviewing the code of AMC forms
+Gone through the presentation of new application "Representative Management".
+Prepare questions and sent mail for call.
+
+12-09-2019
+Created page header, edit panel and section components and working on to design home page.
+
+13-09-2019
+Created slot, input text and select one menu components and designed home page.
+
+
+16-09-2019
+Leave
+
+17-09-2019
+Fixed service type translation issue in EPayment (2)
+Chnaged date format in pDF of Fee calculator (2)
+Working on prototype (4)
+
+18-09-2019
+EPayment
+Added Service type in payment confirmation page, email and print PDF. (6)
+Added debit message to email and PDF.
+Added WIPO address to PDF.
+Changed the way of downloading PDF summary.
+Working on prototype (2)
+
+19-09-2019
+Mail sent for deployment issue of epayment on dev. (1)
+Made the changes to dislay contracting parties if number of classes selected (3)
+Working on to create prototype of 3rd page (4)
+
+20-09-2019
+Removed Hague bussiness unit from epayment (1)
+Working on to create prototype of 3rd page (7)
